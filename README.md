@@ -247,7 +247,7 @@ Project Link: [https://github.com/JMVRy/VerbalMemory-HB](https://github.com/JMVR
 [issues-shield]: https://img.shields.io/github/issues/JMVRy/VerbalMemory-HB.svg?style=for-the-badge
 [issues-url]: https://github.com/JMVRy/VerbalMemory-HB/issues
 [license-shield]: https://img.shields.io/github/license/JMVRy/VerbalMemory-HB.svg?style=for-the-badge
-[license-url]: https://github.com/JMVRy/VerbalMemory-HB/blob/main/LICENSE.txt
+[license-url]: https://github.com/JMVRy/VerbalMemory-HB/blob/main/LICENSE
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/johnmarc-everly-jr-882021225
 
